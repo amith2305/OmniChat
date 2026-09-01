@@ -1,0 +1,14 @@
+OmniChat AI - Chat Export (2026-08-29 22:45)
+============================================================
+
+[You] (22:42)
+What is the Gesture Based Vehicle Control paper about?
+
+[OmniChat AI] (22:42)
+The Gesture Based Vehicle Control paper, as provided in the relevant context, is about a computer vision approach to natural human-machine interaction. It presents a gesture-based control system that translates real-time hand and facial movements into vehicle control inputs. The system enables users to operate a virtual car through intuitive body gestures, eliminating the need for traditional input devices.
+Sources:
+  - 6af96e7a5d3e4d92b6a9ae2c14b3d21d_Gesture_Based_Vehicle_Control_Paper.docx
+  - 6004aaab02bb45b3b50d4581d824a63a_Yadhu-krishna-nm.pdf (page 1)
+  - b9db7b8ace184540a931dbc745042932_Yadhu-krishna-nm.pdf (page 1)
+  - 994537c195ea4e34b19cf97d56826a87_Yadhu-krishna-nm.pdf (page 1)
+  - 91425d75e2724d17a97dd5148e90a5a6_Yadhu-krishna-nm.pdf (page 1)
